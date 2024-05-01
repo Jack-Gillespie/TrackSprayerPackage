@@ -1,0 +1,14 @@
+Package: TrackSprayerPackage
+Type: Package
+Title: Package to Analyse the Track Sprayer Data
+Version: 0.1.0
+Author: Jack Gillespie
+Maintainer: Jack Gillespie <jack.gillespie@lstmed.ac.uk>
+Description: Package contains functions to analyse the standards, calculate the volume deposited, and the application rate in ml/m2.
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.2.3
